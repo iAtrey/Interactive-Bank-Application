@@ -1,5 +1,5 @@
 # Interactive-Bank-Application
-Allow a customer to create a new bank account with their following personal details:
+1, Allows a customer to create a new bank account with their following personal details:
 
 Full name
 
@@ -11,7 +11,7 @@ Valid government-issued identification
 
 Amount to be deposited to the account
 
-Allow an existing customer of the bank to
+2. Allows an existing customer of the bank to
 
 Check their bank balance
 
